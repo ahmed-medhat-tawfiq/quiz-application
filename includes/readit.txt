@@ -1,0 +1,9 @@
+In this folder :
+-the config.php  to configure the database connection
+-the inintialise.php will contain all class and required files in each page
+-the student.php
+-the instructor.php
+-the quiz.php
+-the question.php
+-the session.php
+-the database.php
