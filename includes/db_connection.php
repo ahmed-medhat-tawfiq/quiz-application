@@ -1,9 +1,9 @@
 <?php 
 	
 	define("DB_SERVER", "localhost");
-	define("DB_USER","widget_cms");
-	define("DB_PASS","secretpassword");
-	define("DB_NAME","widget_crop");
+	define("DB_USER","root");
+	define("DB_PASS","");
+	define("DB_NAME","quiz");
 	$connection=mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
 	// Test connectivity
 	if(mysqli_connect_errno()){
